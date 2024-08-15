@@ -29,7 +29,7 @@ git clone [ https://github.com/your-username/netflix-clone-html-css.git](https:/
 cd netflix-clone-html-css
 
 Open the project:
-[https://lambent-cheesecake-d35721.netlify.app/](https://66bdfc1003377a250ff25dc2--melodious-gnome-f56f0c.netlify.app/)
+https://66bdfc1003377a250ff25dc2--melodious-gnome-f56f0c.netlify.app/
 
 <h1>🛠️ Technologies Used</h1>
 
