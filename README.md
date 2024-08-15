@@ -1,7 +1,10 @@
 
 <h1>🎬 Netflix HTML and CSS Clone</h1>
 
+
 Welcome to the Netflix HTML and CSS Clone project! This project is a simplified version of the popular streaming service, Netflix. Enjoy exploring and customizing it! 🌟
+
+![image](https://user-images.githubusercontent.com/79099734/156505537-8e28ee14-dd20-4299-9eea-984d7068c7fd.png)
 
 <h1>📦 Features</h1>
 
