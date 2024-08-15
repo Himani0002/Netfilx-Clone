@@ -25,7 +25,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone [ https://github.com/your-username/netflix-clone-html-css.git](https://github.com/Himani0002/Netfilx-Clone.git)
+git clone [ https://github.com/your-username/netflix-clone-html-css.git]([https://github.com/Himani0002/Netfilx-Clone.git](https://66bdfc1003377a250ff25dc2--melodious-gnome-f56f0c.netlify.app/))
 cd netflix-clone-html-css
 
 Open the project:
