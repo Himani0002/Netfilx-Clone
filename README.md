@@ -28,9 +28,6 @@ Copy code
 git clone [ https://github.com/your-username/netflix-clone-html-css.git](https://66bdfc1003377a250ff25dc2--melodious-gnome-f56f0c.netlify.app/)
 cd netflix-clone-html-css
 
-Open the project:
-[https://66bdfc1003377a250ff25dc2--melodious-gnome-f56f0c.netlify.app/](https://66bdfc1003377a250ff25dc2--melodious-gnome-f56f0c.netlify.app/)
-
 <h1>🛠️ Technologies Used</h1>
 
 HTML - For the structure of the web pages
@@ -54,6 +51,8 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 If you have any questions or suggestions, feel free to reach out:
 
 Email: himanigohil0002@gmail.com
+
+Open the project: https://66bdfc1003377a250ff25dc2--melodious-gnome-f56f0c.netlify.app/
 
 GitHub: himani0002
 
